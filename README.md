@@ -1,3 +1,3 @@
 # Climate-change
-Example code for time series data analysis
-Here I downloaded climate data of Texas over 100 years and from NOAA
+Climate change and global warming have a direct impact on agriculture. Here I whow a brief analysis of temperature change and predict the tempeature in future in Texas, US. 
+Climate data of Texas over 100 years data was downloaded from NOAA
